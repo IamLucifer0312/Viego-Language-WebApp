@@ -25,8 +25,8 @@ Video Demonstration Link: [here](https://youtu.be/LdY16MiGtE0?si=Ts-4rdtO5Zsq9_n
 # Project Description:  
 ## This application facilitates:  
   
-• Vietnamese Handwriting Practice: An AI driven function, utilized OpenAI APIs (openai-4o) to handle OCR, Natural Language Processing, and Text Generation. Users can upload images of Vietnamese handwritten text. The application recognizes the text to identify and correct grammar or spelling mistakes.  
-• Vietnamese Audio Practice: Another function used Open AI APIs (whisper-1) to Voice Recognition and Generation Tasks. Users can directly record or upload their Vietnamese speech. The system analyses 
+• Vietnamese Handwriting Practice: An AI driven function, utilized OpenAI APIs (gpt-4o) to handle OCR, Natural Language Processing, and Text Generation. Users can upload images of Vietnamese handwritten text. The application recognizes the text to identify and correct grammar or spelling mistakes.  
+• Vietnamese Audio Practice: Another function used Open AI APIs (whisper-1, and tts-1) to Voice Recognition and Generation Tasks. Users can directly record or upload their Vietnamese speech. The system analyses 
 the content and provides feedback on tonal accuracy and linguistic nuances.  
 • Customized Lessons and Quizzes: The application offers practical lessons and AI generated exercises designed to help users learn Vietnamese interactively.  
 
